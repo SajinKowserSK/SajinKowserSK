@@ -3,7 +3,7 @@ Thanks for checking out my GitHub! Here's a little about me:
 
     🤔 Interested in Building + Scaling B2C Products  
 
-    💻 TPM Intern @ Uber | Transit Engineering Team 
+    💻 SWE Intern @ Uber | Transit Engineering Team 
 
     📕 Computer Science and Business Student
 
